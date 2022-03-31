@@ -19,9 +19,7 @@
     - [Mainnet](mainnet.md)
     - [Testnet](testnet.md)
     - [DApp-Governance](dev/dapp-gov.md)
-    - [HRC20](dev/hrc20.md)
     - [WalletConnect](dev/wallet-connect.md)
-    - [gasprice](dev/gasprice.md)
     - [Txpool](dev/txpool.md)
 - Announcement
     - [Announcement](Announcement.md)
