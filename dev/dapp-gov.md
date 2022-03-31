@@ -4,7 +4,7 @@
 
 https://snapshot.page/#/
 
-dapp developer: create space with metamask, choose heco chain;
+dapp developer: create space with metamask, choose MMT chain;
 
 user: create proposal in space; 
 
