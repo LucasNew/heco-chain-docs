@@ -2,7 +2,7 @@
 
 ## chainid
 ```
-256
+88998
 ```
 ## rpc
 ```
@@ -12,11 +12,11 @@ wss://ws-testnet.hecochain.com
 
 ## explorer
 ```
-https://scan-testnet.hecochain.com
+https://testnet.mmtscan.io
 ```
 
 ## faucet
 
 ```
-https://scan-testnet.hecochain.com/faucet
+https://faucet.mmtscan.io
 ```
