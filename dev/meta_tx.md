@@ -3,10 +3,6 @@ A meta-transaction is essentially an operation that fulfils a fee payment in pro
 
 ![avatar](../images/en_metatx.jpg)
 
-# Java Demo 
-
-https://github.com/stars-labs/metatx-Java-demo
-
 ## Build meta transaction
 - Obtain the original `rawTransaction` information.
 - Parse raw transaction to get fields like `nonce`, `gasprice`, `gaslimit`, `from address`, `to address`, `value`, `data`, etc.
